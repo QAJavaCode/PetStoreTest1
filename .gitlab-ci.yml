@@ -7,7 +7,7 @@ java:
   artifacts:
     when: always
     paths:
-      - target/site/serenity/index.html
+      - target/site/serenity
     reports:
       junit:
         - target/surefire-reports/TEST-*.xml
