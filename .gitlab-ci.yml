@@ -1,9 +1,11 @@
+image: maven:3.6.3-jdk-8
+
 java:
   stage: test
   script:
-    - mvn clean verify
-    - cat target/site/serenity/index.html
+    "mvn clean verify"
   artifacts:
+    when: always
     paths:
       - target/site/serenity/index.html
     reports:
