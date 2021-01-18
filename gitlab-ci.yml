@@ -1,0 +1,12 @@
+java:
+  stage: test
+  script:
+    - mvn clean verify
+    - cat target/site/serenity/index.html
+  artifacts:
+    paths:
+      - target/site/serenity/index.html
+    reports:
+      junit:
+        - target/surefire-reports/TEST-*.xml
+        - target/failsafe-reports/TEST-*.xml
