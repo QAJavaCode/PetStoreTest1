@@ -79,5 +79,4 @@ clients can create, modify and delete users, pet info or orders. As these
 CRUD operations provide key service clients with core functionality they 
 should be properly tested. It's v1.0 framework version so of course adding 
 more negative tests methods and test cases is and will be appreciated especially 
-if Pet Store endpoints amount will be growing.
-##`Thanks for attention and have a good day!`
+if Pet Store endpoints amount will be growing. Thanks for attention and have a good day!
