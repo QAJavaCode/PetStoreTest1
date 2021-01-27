@@ -65,7 +65,7 @@ to the Java 11 which is also LTS version but Java 8 has been chosen intentionall
 to provide framework users with the stability.
 ##`Pet Store API interactions`
 
-All the Pet Store API functionality can be divided to 4 parts:
+All the Pet Store API functionality can be divided to 3 parts:
 
 1. Pets Info
 2. Orders functionality
