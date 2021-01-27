@@ -63,7 +63,7 @@ lots of relevant test cases perfectly tied to the codebase. In case if needed,
 API tests can be easily integrated with UI ones. Test framework can be updated
 to the Java 11 which is also LTS version but Java 8 has been chosen intentionally
 to provide framework users with the stability.
-##`Pet Store API interactions`
+## `Pet Store API interactions`
 
 All the Pet Store API functionality can be divided to 3 parts:
 
