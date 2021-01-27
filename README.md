@@ -20,7 +20,7 @@ possible it would be great to underline key ones:
    with Cucumber (which actually supports the fourth version of JUnit or requires 
    vintage-core dependency in case if JUnit 5 is used), Serenity and Rest Assured;
 4. Serenity BDD framework - allows dividing test logic to step classes and
-test ones. It is alo a source of reporting for following Pet Store testing framework;
+test ones. It is also a source of reporting for following Pet Store testing framework;
 5. Cucumber BDD framework - allows associating test cases with step methods by create 
    so-called step definition classes. Also allows creating .feature files
    which currently act as test cases and short feature descriptions;
